@@ -1,0 +1,29 @@
+body {
+    color: #7c2e2e;
+	background: linear-gradient(-45deg, #6e69a8, #624F82, #9F73AB, #A3C7D6);
+	background-size: 400% 400%;
+	animation: gradient 5s ease infinite;
+	height: 100vh;
+}
+
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
+
+.main-card{
+    display: flex;
+}
+
+.1st-div{
+    background-color:
+}
+
+.
